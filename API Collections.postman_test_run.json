@@ -1,0 +1,149 @@
+{
+	"id": "f8c5d2ea-ba73-4579-82d9-3f8bbcf65374",
+	"name": "API Collections",
+	"timestamp": "2023-03-14T13:44:48.063Z",
+	"collection_id": "25978009-c09cc121-c12c-4b16-8a38-6c68831224ed",
+	"folder_id": 0,
+	"environment_id": "25978009-daa172d9-65fe-41e0-becd-515a957ffc6c",
+	"totalPass": 18,
+	"delay": 0,
+	"persist": true,
+	"status": "finished",
+	"startedAt": "2023-03-14T13:44:47.466Z",
+	"totalFail": 0,
+	"results": [
+		{
+			"id": "7cc0cfbc-d370-4dfd-9e49-1cd57f9a4b4c",
+			"name": "Team Postman Module 3 Task 6 and 7 combined",
+			"url": "https://petstore.swagger.io/v2/swagger.json",
+			"time": 105,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code should be 200": true,
+				"Status code name should have OK": true,
+				"Response time should be less than 200ms": true,
+				"Confirm that the swagger value is 2.0": true,
+				"Confirm that the swagger description is correct": true,
+				"Confirm that the swagger version is 1.0.6": true,
+				"Confirm that the swagger title is Swagger Petstore": true,
+				"Confirm that the terms Of Service is correct": true,
+				"Confirm that the email detail is correct": true,
+				"Confirm that the license name is correct": true,
+				"Confirm that the swagger host is correct": true,
+				"Confirm that the basePath is correct": true,
+				"Confirm that the tag name is correct": true,
+				"Confirm that the tag description is correct": true,
+				"Confirm that the external docs description is correct": true,
+				"Confirm that the tag url is correct": true,
+				"Confirm that the api_key type is apikey": true
+			},
+			"testPassFailCounts": {
+				"Status code should be 200": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Status code name should have OK": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Response time should be less than 200ms": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Confirm that the swagger value is 2.0": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Confirm that the swagger description is correct": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Confirm that the swagger version is 1.0.6": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Confirm that the swagger title is Swagger Petstore": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Confirm that the terms Of Service is correct": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Confirm that the email detail is correct": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Confirm that the license name is correct": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Confirm that the swagger host is correct": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Confirm that the basePath is correct": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Confirm that the tag name is correct": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Confirm that the tag description is correct": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Confirm that the external docs description is correct": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Confirm that the tag url is correct": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Confirm that the api_key type is apikey": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				105
+			],
+			"allTests": [
+				{
+					"Status code should be 200": true,
+					"Status code name should have OK": true,
+					"Response time should be less than 200ms": true,
+					"Confirm that the swagger value is 2.0": true,
+					"Confirm that the swagger description is correct": true,
+					"Confirm that the swagger version is 1.0.6": true,
+					"Confirm that the swagger title is Swagger Petstore": true,
+					"Confirm that the terms Of Service is correct": true,
+					"Confirm that the email detail is correct": true,
+					"Confirm that the license name is correct": true,
+					"Confirm that the swagger host is correct": true,
+					"Confirm that the basePath is correct": true,
+					"Confirm that the tag name is correct": true,
+					"Confirm that the tag description is correct": true,
+					"Confirm that the external docs description is correct": true,
+					"Confirm that the tag url is correct": true,
+					"Confirm that the api_key type is apikey": true
+				}
+			]
+		}
+	],
+	"count": 1,
+	"totalTime": 105,
+	"collection": {
+		"requests": [
+			{
+				"id": "7cc0cfbc-d370-4dfd-9e49-1cd57f9a4b4c",
+				"method": "GET"
+			}
+		]
+	}
+}
